@@ -13,9 +13,10 @@ Currently it produces only HTML output with tables and graphs.
 
 The above versions are not absolute requirements; older versions may work also.
 
+Test!!!!!
+
 ## Install
 
-gitstats does not currently need to be installed; it's used right from the
 directory (it also assumes some files like the stylesheet are in .)
 
 Suppose you have a git project at /mnt/src/git/project
